@@ -1,5 +1,5 @@
 # Quizzler
-Learn to make iOS Apps with [The App Brewery](https://www.appbrewery.co) 📱 | Project Stub | (Swift 4.0/Xcode 9) - Quizzler App
+Created while watching London App Brewery's Udemy course "iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp."
 
 ## Finished App
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif)
